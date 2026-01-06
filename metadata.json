@@ -1,0 +1,7 @@
+{
+  "name": "Uplift India - SDG 1 No Poverty",
+  "description": "An inclusive, low-data mobile app designed for rural and low-income communities in India to access basic needs, healthcare, jobs, and government schemes.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
